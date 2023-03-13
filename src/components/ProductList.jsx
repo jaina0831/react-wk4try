@@ -1,6 +1,6 @@
 import { Row, Col } from "antd";
 import images from "../json/image.json";
-export default function Article() {
+export default function ProductList() {
     return (
         <div>
             <article className="image__layout py-3 py-sm-5">
