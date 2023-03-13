@@ -3,7 +3,7 @@
 {
     "id":"01",
     "name":"img1",
-    "image":"/images/img1.jpg",
+    "link":"/images/img1.jpg",
     "title":"Place 1"
 },
 {
