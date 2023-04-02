@@ -75,6 +75,14 @@ export default function Footer(){
         </div>
         </div>
       </div>
+        
+        <div className="footer__below">
+      <div className="container">
+        <h6>
+          &copy; i want to sleep.
+        </h6>
+      </div>
+    </div>
   </footer>
     );
 }
