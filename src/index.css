@@ -133,13 +133,17 @@
   align-self: center;
 }
 
-.footer__list {
+.first-icon-wrap{
+  text-align: center;
+}
+/* .footer__list {
   list-style: none;
   margin: 0;
   display: flex;
   justify-content: center;
   align-self: center;
-}
+} */
+
 
 @media screen and (min-width: 992px) {
   .footer__description {
