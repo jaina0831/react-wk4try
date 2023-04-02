@@ -9,13 +9,29 @@ export default function Footer(){
             <li className="footer__item"><a href="" className="footer__link"><i className="fab fa-google-plus-g"></i></a></li>
             <li className="footer__item"><a href="" className="footer__link"><i className="fab fa-linkedin-in"></i></a></li>
           </div>
-        <h5 className="footer__description col-lg-8">
-        使用條款 隱私權政策 客服中心
-        </h5>
+        <div classNam="row">
+                <div className="col-md-12 col-sm-12">
+                    <div className="secondfooter-box">
+                        <ul className="secondfooter-list">
+                            <li className="secondfooter-list-items">
+                                <a className="secondfooter-list-items-link" href="#">使用者合約</a>
+                            </li>
+                            <li className="secondfooter-list-items">
+                                <a className="secondfooter-list-items-link" href="#">偏好設定</a>
+                            </li>
+                            <li className="secondfooter-list-items">
+                                <a className="secondfooter-list-items-link" href="#">服務條款</a>
+                            </li>
+                            <li className="secondfooter-list-items">
+                                <a className="secondfooter-list-items-link" href="#">隱私權設定</a>
+                            </li> 
+                        </ul>
+                    </div>
+                </div>
+            </div>   
         </div>
         </div>
       </div>
-
 
     <div className="footer__below">
       <div className="container">
