@@ -125,13 +125,56 @@
   color: white;
 }
 
+.secondfooter-box{
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  margin: 0px 0 0 0px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 3px;
+}
+.secondfooter-list{
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.secondfooter-list-items{
+  display: flex;
+  width: 90px;
+  height: 60px;
+  margin: 0px 0px 0 0;
+  list-style: none;
+}
+.secondfooter-list-items-link{
+  display: flex;
+  display: block;
+  text-decoration: none;
+  padding:0px 0px 0 0;
+  margin: 0 0px 0 0;
+  width: 90px;
+  height: 60px;
+  font-family:'SNsanafonmaru';
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 55px;
+  letter-spacing: normal;
+  text-align: center;
+  color: black;
+}
+.secondfooter-list-items-link:hover{
+  transform: scale(1.2);
+  color: black;
+}
+/* 
 .footer__description {
   margin: 0;
   padding: 0 30px;
   text-align: center;
   padding-bottom: 30px;
   align-self: center;
-}
+} */
 
 .first-icon-wrap{
   display: flex;
