@@ -124,7 +124,9 @@
   background-color: #000000;
   color: white;
 }
-
+.cityfooter{
+  display: flex;
+}
 .firstfooter-box{
         display: flex;
         justify-content: center;
