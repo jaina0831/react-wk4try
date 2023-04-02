@@ -6,6 +6,11 @@ export default function Footer(){
         <div className="row my-3">
         <div class="row">
                 <div className="col-md-12 col-sm-12">
+                                    <img className="cityfooter" src="./images/city.png" alt="youtube"/>
+                </div>
+        </div>
+        <div class="row">
+                <div className="col-md-12 col-sm-12">
                     <div className="firstfooter-box">
                         <ul className="firstfooter-list">
                             <li className="firstfooter-list-items">
