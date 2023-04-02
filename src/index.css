@@ -125,6 +125,47 @@
   color: white;
 }
 
+.firstfooter-box{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80px;
+        margin: 0px 0 0 0px;
+        padding: 0px 0px 0px 0px;
+        border-radius: 3px;
+    }
+    .firstfooter-list{
+        display: flex;
+        padding: 0;
+        margin: 20px 0 0 40px;
+    }
+    .firstfooter-list-items{
+        display: flex;
+        width: 90px;
+        height: 60px;
+        margin: 0 0px 0 0;
+        list-style: none;
+    }
+    .firstfooter-img{
+        width: 50px;
+        height: 50px;
+        margin: 0px 0 0 0;
+    }
+    .firstfooter-list-items-link{
+        display: flex;
+        display: block;
+        text-decoration: none;
+        padding:0px 0px 0 0;
+        margin: 0px 0px 0 0;
+        width: 50px;
+        height: 50px;
+    }
+    .firstfooter-list-items-link:hover{
+        transform: scale(1.2);
+        border-radius: 33%;
+        background-color: white;
+      }
+
 .footer-box{
   display: flex;
   justify-content: center;
