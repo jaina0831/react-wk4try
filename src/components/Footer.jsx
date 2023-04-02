@@ -4,11 +4,29 @@ export default function Footer(){
     <div className="footer__above py-5">
       <div className="container">
         <div className="row my-3">
-          <div className="first-icon-wrap">
-          <li className="footer__item"><a href="" className="footer__link"><i className="fab fa-facebook-f"></i></a></li>
-            <li className="footer__item"><a href="" className="footer__link"><i className="fab fa-google-plus-g"></i></a></li>
-            <li className="footer__item"><a href="" className="footer__link"><i className="fab fa-linkedin-in"></i></a></li>
-          </div>
+        <div class="row">
+                <div className="col-md-12 col-sm-12">
+                    <div className="firstfooter-box">
+                        <ul className="firstfooter-list">
+                            <li className="firstfooter-list-items">
+                                <a className="firstfooter-list-items-link" href="#">
+                                    <img className="firstfooter-img" src="./images/—Pngtree—youtube white icon_3570427.png" alt="youtube"/>
+                                </a>
+                            </li>
+                            <li className="firstfooter-list-items">
+                                <a className="firstfooter-list-items-link" href="#">
+                                    <img className="firstfooter-img" src="./images/—Pngtree—facebook white icon_3570425.png" alt="facebook"/>
+                                </a>
+                            </li>
+                            <li className="firstfooter-list-items">
+                                <a className="firstfooter-list-items-link" href="#">
+                                    <img className="firstfooter-img" src="./images/—Pngtree—instagram white icon instagram instagram_3570419.png" alt="ins"/>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         <div classNam="row">
                 <div className="col-md-12 col-sm-12">
                     <div className="footer-box">
