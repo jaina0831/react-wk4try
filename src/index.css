@@ -205,7 +205,7 @@
 }
 .footer-list-items-link:hover{
   transform: scale(1.2);
-  color: rgb(244, 144, 61);
+  background-color:  rgb(244, 144, 61);
 }
 /* 
 .footer__description {
