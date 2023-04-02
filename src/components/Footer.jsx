@@ -6,7 +6,7 @@ export default function Footer(){
         <div className="row my-3">
         <div class="row">
                 <div className="col-md-12 col-sm-12">
-                                    <img className="cityfooter" src="./images/city.png"/>
+                                    <img className="cityfooter" src="./images/citys.png"/>
                 </div>
         </div>
         <div class="row">
