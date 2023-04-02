@@ -11,24 +11,44 @@ export default function Footer(){
           </div>
         <div classNam="row">
                 <div className="col-md-12 col-sm-12">
-                    <div className="secondfooter-box">
-                        <ul className="secondfooter-list">
-                            <li className="secondfooter-list-items">
-                                <a className="secondfooter-list-items-link" href="#">使用者合約</a>
+                    <div className="footer-box">
+                        <ul className="footer-list">
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">說明中心</a>
                             </li>
-                            <li className="secondfooter-list-items">
-                                <a className="secondfooter-list-items-link" href="#">偏好設定</a>
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">使用條件</a>
                             </li>
-                            <li className="secondfooter-list-items">
-                                <a className="secondfooter-list-items-link" href="#">服務條款</a>
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">法律聲明</a>
                             </li>
-                            <li className="secondfooter-list-items">
-                                <a className="secondfooter-list-items-link" href="#">隱私權設定</a>
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">連絡我們</a>
                             </li> 
                         </ul>
                     </div>
                 </div>
-            </div>   
+            </div>
+            <div classNam="row">
+                <div className="col-md-12 col-sm-12">
+                    <div className="footer-box">
+                        <ul className="footer-list">
+                            <li className="sfooter-list-items">
+                                <a className="footer-list-items-link" href="#">隱私權</a>
+                            </li>
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">訂閱協議</a>
+                            </li>
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">媒體資訊</a>
+                            </li>
+                            <li className="footer-list-items">
+                                <a className="footer-list-items-link" href="#">投資人關係</a>
+                            </li> 
+                        </ul>
+                    </div>
+                </div>
+            </div>      
         </div>
         </div>
       </div>
