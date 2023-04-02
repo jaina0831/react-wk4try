@@ -121,13 +121,14 @@
 
 /* Footer Style */
 .footer__above {
-  background-color: #000000;
   color: white;
 }
 .cityfooter{
   display: flex;
+  background-color: #ffffff;
 }
 .firstfooter-box{
+        background-color: #000000;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -169,6 +170,7 @@
       }
 
 .footer-box{
+  background-color: #000000;
   display: flex;
   justify-content: center;
   height: 60px;
