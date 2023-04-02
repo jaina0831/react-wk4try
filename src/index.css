@@ -126,7 +126,6 @@
 }
 .cityfooter{
   display: flex;
-  justify-content: center;
   background-color: #ffffff;
 }
 .firstfooter-box{
