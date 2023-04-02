@@ -161,9 +161,8 @@
         height: 50px;
     }
     .firstfooter-list-items-link:hover{
-        transform: scale(1.2);
-        border-radius: 33%;
-        background-color: white;
+          transform: scale(1.2);
+  color: rgb(244, 144, 61);
       }
 
 .footer-box{
