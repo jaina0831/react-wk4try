@@ -61,10 +61,6 @@ return (
                                         src="images/chrome.png" alt="ig" /></a>
                                 <a href="https://www.facebook.com/" target="_blank"><img class="media-icon"
                                         src="images/fb.png" alt="fb" /></a>
-                                <a href="https://line.me/zh-hant/" target="_blank"><img class="media-icon"
-                                        src="images/line.png" alt="ig" /></a>
-                                <a href="https://www.instagram.com/" target="_blank"><img class="media-icon"
-                                        src="images/ig.png" alt="ig" /></a>
                             </div>
                         </div>
                         <div class="col-md-12 text-center">
