@@ -64,8 +64,8 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: rgb(0, 0, 0);
-  color:rgb(10, 35, 97);
+  background-color: rgb(255, 145, 89);
+  color:rgb(255, 145, 89);
 }
  .logo{
     height: 100px;
@@ -129,11 +129,11 @@ input[type=submit]:hover {
     display: flex;
 }
 .Remeber{
-  color: rgb(255, 255, 255);
+  color: rgb(10, 35, 97);
 }
 .Remeber:hover{
   transform: scale(1.2);
-  color: rgb(10, 35, 97);
+  color: rgb(255, 145, 89);
 }
 .last{
     margin-bottom: 20px;
@@ -146,11 +146,11 @@ input[type=submit]:hover {
 }
 .Sign{
     font-family:'KurewaGothicCjkTc-Bold';
-    color: rgb(255, 255, 255);
+    color: rgb(10, 35, 97);
 }
 .Sign:hover{
   transform: scale(1.2);
-  color: rgb(244, 144, 61);
+  color: rgb(255, 145, 89);
 }
 .sign{
   color: rgb(10, 35, 97);
