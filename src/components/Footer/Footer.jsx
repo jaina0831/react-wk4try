@@ -29,51 +29,42 @@ export default function Footer() {
                             </li>
                         </ul>
                     </div>
-
-
-                    <div classNam="row">
-                        <div className="col-md-12 col-sm-12">
-                            <div className="footer-box">
-                                <ul className="footer-list">
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">說明中心</a>
+                            <div className={style.footerbox}>
+                                <ul className={style.footerlist}>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">說明中心</a>
                                     </li>
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">使用條件</a>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">使用條件</a>
                                     </li>
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">法律聲明</a>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">法律聲明</a>
                                     </li>
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">連絡我們</a>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">連絡我們</a>
                                     </li>
                                 </ul>
                             </div>
-                        </div>
-                    </div>
-                    <div classNam="row">
-                        <div className="col-md-12 col-sm-12">
-                            <div className="footer-box">
-                                <ul className="footer-list">
-                                    <li className="sfooter-list-items">
-                                        <a className="footer-list-items-link" href="#">隱私權</a>
+                   
+                            <div className={style.footerbox}>
+                                <ul className={style.footerlist}>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">隱私權</a>
                                     </li>
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">訂閱協議</a>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">訂閱協議</a>
                                     </li>
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">媒體資訊</a>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">媒體資訊</a>
                                     </li>
-                                    <li className="footer-list-items">
-                                        <a className="footer-list-items-link" href="#">投資人關係</a>
+                                    <li className={style.footerlistitems}>
+                                        <a className={style.footerlistitemslink} href="#">投資人關係</a>
                                     </li>
                                 </ul>
                             </div>
-                        </div>
-                    </div>
 
-        <div className="footer__below">
-            <div className="container">
+        <div className={style.footerbelow}>
+            <div className={style.container}>
                 <h6>
                     &copy; Copyright All rights reserved.
                 </h6>
@@ -84,5 +75,3 @@ export default function Footer() {
   </div >
     );
 }
-
-
