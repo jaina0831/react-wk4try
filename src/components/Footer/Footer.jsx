@@ -19,12 +19,12 @@ export default function Footer() {
                             </li>
                             <li className={styles.firstfooterlistitems}>
                                 <a className={styles.firstfooterlistitemslink} href="#">
-                                    <img className="firstfooter-img" src="./images/—Pngtree—facebook white icon_3570425.png" alt="facebook" />
+                                    <img className{style.firstfooterimg} src="./images/—Pngtree—facebook white icon_3570425.png" alt="facebook" />
                                 </a>
                             </li>
                             <li className={styles.firstfooterlistitems}>
                                 <a className={styles.firstfooterlistitemslink} href="#">
-                                    <img className="firstfooter-img" src="./images/—Pngtree—instagram white icon instagram instagram_3570419.png" alt="ins" />
+                                    <img className={style.firstfooterimg} src="./images/—Pngtree—instagram white icon instagram instagram_3570419.png" alt="ins" />
                                 </a>
                             </li>
                         </ul>
