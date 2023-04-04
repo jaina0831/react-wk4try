@@ -11,18 +11,18 @@ export default function Footer() {
             <div className="container">
                 <footer className={styles.footer}>
                     <div className={styles.firstfooterbox}>
-                        <ul className={styles.firstfooter - list}>
-                            <li className={styles.firstfooter - list - items}>
+                        <ul className={styles.firstfooterlist}>
+                            <li className={styles.firstfooterlistitems}>
                                 <a className={styles.firstfooterlistitemslink} href="#">
                                     <img className={styles.firstfooterimg} src="./images/—Pngtree—youtube white icon_3570427.png" alt="youtube" />
                                 </a>
                             </li>
-                            <li className={styles.firstfooter - list - items}>
+                            <li className={styles.firstfooterlistitems}>
                                 <a className={styles.firstfooterlistitemslink} href="#">
                                     <img className="firstfooter-img" src="./images/—Pngtree—facebook white icon_3570425.png" alt="facebook" />
                                 </a>
                             </li>
-                            <li className={styles.firstfooter - list - items}>
+                            <li className={styles.firstfooterlistitems}>
                                 <a className={styles.firstfooterlistitemslink} href="#">
                                     <img className="firstfooter-img" src="./images/—Pngtree—instagram white icon instagram instagram_3570419.png" alt="ins" />
                                 </a>
